@@ -6,7 +6,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 public class File1Reader {
-	File3Reader table;
+	FileReader table;
 	int counter = 1;
 
 	public void run(File f) throws IOException {
